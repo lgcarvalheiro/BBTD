@@ -3,6 +3,7 @@ The Brazilian bee trait database (BBTD) results from the collaborative work of m
 If you would like to contribute with new information to help us improve coverage please send an email to lgcarvalheiro@ufg.br OR guaradc@gmail.com
 
 Make sure you use the latest version (date on the name of the files)
+
 For a graphical representation of the database content please see: https://colecaozoologica.icb.ufg.br/p/brazilianbeetraitdatabase
 
 
